@@ -16,8 +16,11 @@ This is a repo for you to raise a pull request for practice. How?
 
 - [Git and GitHub for Beginners - FreeCodeCamp](https://youtu.be/RGOj5yH7evk)
 - [Git Tutorial by Atlassian](https://www.atlassian.com/git/tutorials)
+- [How to contribute to open source](https://youtu.be/yzeVMecydCE)
 
 You can easily find any other git tutorial and use this repository for practising git commands!
+
+
 
 
 
